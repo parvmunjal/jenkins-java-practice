@@ -5,5 +5,6 @@ public class Test{
         System.out.println("Myself parv");
         System.out.println(new Date());
         System.out.println("Jenkins practice");
+        System.out.println("Myself parvu");
     }
 }
